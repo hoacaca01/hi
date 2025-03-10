@@ -14,7 +14,7 @@ export default function Home() {
 
         {/* Content */}
         <main className="p-6">
-          <h2 className="text-2xl font-bold mb-4">Welcome to My Website</h2>
+          <h2 className="text-2xl font-bold mb-4">Welcome to My Website11</h2>
           <p className="text-gray-700">This is the main content area where you can add more details.</p>
         </main>
       </div>
